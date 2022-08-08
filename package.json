@@ -1,0 +1,12 @@
+{
+  "name": "babel-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/types": "^7.18.10"
+  }
+}
